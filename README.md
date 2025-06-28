@@ -1,4 +1,4 @@
-# Basic_Data_Structure
+# Data Structure 2022
 
 This repository contains foundational data structure concepts divided into three modules:
 
